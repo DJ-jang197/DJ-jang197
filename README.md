@@ -12,7 +12,7 @@ CS Student @ University of Waterloo | Aspiring Cybersecurity Analyst | SWE Enthu
 
 ## 🛠️ Languages & Tools
 
-`Java` `Python` `C` `JavaScript` `TypeScript` `React` `Dart` `HTML/CSS` `SQL` `C++` `React`
+`Java` `Python` `C` `JavaScript` `TypeScript` `React` `Dart` `HTML/CSS` `SQL` `C++`
 
 ---
 
