@@ -4,8 +4,6 @@ CS Student @ University of Waterloo | Aspiring Cybersecurity Analyst | SWE Enthu
 
 ```txt
 -  BCS Honours Co-op @ University of Waterloo (2025–2030)
--  Autonomy Member @ Waterloo Aerial Robotics Group
--  Software Member @ Waterloo Rocketry
 -  Currently learning: embedded systems, full stack dev, cybersecurity
 ```
 
