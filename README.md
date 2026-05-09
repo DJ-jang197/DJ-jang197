@@ -15,4 +15,4 @@ CS Student @ University of Waterloo | Aspiring Cybersecurity Analyst | SWE Enthu
 ---
 
 
-Reach me via [LinkedIn](https://www.linkedin.com/in/daniel-jang197/)· Always open to collaborating on cool things!
+Reach me via [LinkedIn](https://www.linkedin.com/in/daniel-jang197/)· Always open to collaborating on new things!
